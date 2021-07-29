@@ -10,4 +10,4 @@ const ListSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("User", ListSchema)
+export default mongoose.model("List", ListSchema)

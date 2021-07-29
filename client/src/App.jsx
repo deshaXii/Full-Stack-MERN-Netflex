@@ -7,10 +7,10 @@ import Login from './pages/login/Login';
 function App() {
   return (
     <div className="App">
-      {/* <Home /> */}
+      <Home />
       {/* <Watch /> */}
       {/* <Register /> */}
-      <Login />
+      {/* <Login /> */}
     </div>
   );
 }
